@@ -10,7 +10,7 @@ Anyone with a little experience in Flutter can set this up and start developing 
 
 1. Clone this repository:
     ```shell script
-    git clone <https://github.com/thearavindhvideo call>
+    git clone <https://github.com/thearavindh/videocall-app>
     cd video_call 
     flutter pub get 
     ```
