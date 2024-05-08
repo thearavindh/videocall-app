@@ -10,7 +10,7 @@ Anyone with a little experience in Flutter can set this up and start developing 
 
 1. Clone this repository:
     ```shell script
-    git clone <https://github.com/maddyb99/video_call>
+    git clone <https://github.com/thearavindhvideo call>
     cd video_call 
     flutter pub get 
     ```
@@ -38,7 +38,6 @@ Anyone with a little experience in Flutter can set this up and start developing 
         ```
         flutter packages pub run build_runner build
         ```
-    If you do not intend to make your own API or use a custom one, you can quickly find and deploy the model [User Management API](https://github.com/maddyb99/user_management_api) being used in this project.
 4. Copy your **Agora Project App ID** and replace `YOUR-APP-ID` in
    `lib/common/private/agora_sdk_constants.dart` with the App ID
     ```
@@ -46,7 +45,4 @@ Anyone with a little experience in Flutter can set this up and start developing 
     static get appId=>'YOUR-APP-ID';
     }
     ```
-    If you cannot find the private folder, refer step 3(i)
-
-    If you are new to Agora, you can create a new project by following this
-    [official guide](https://docs.agora.io/en/Agora%20Platform/manage_projects?platform=All%20Platforms).
+   
